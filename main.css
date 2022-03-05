@@ -41,7 +41,6 @@ nav {
 }
 .nav-link {
   color: var(--secondary);
-  font-size: 1.3rem;
 }
 .nav-link:hover {
   color: var(--secondary);
@@ -49,7 +48,6 @@ nav {
 
 .carousel-container {
   margin-top: 150px;
-  border-radius: 5px;
 }
 
 .carousel-caption {
